@@ -25,7 +25,7 @@
 
 ### Asenso Barber Club
 
-🔗 https://gonzasenso.github.io/Web-Barberia/
+🔗 https://gonzasenso.github.io/Asenso-Barber-Club/
 
 ### FlyLena - Sistema de Gestión de Vuelos
 
