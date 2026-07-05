@@ -33,7 +33,7 @@
 
 ### GamerXtreme Ecommerce
 
-🔗 (agregá el enlace cuando lo tengas publicado)
+🔗 https://gonzasenso.github.io/Gamerxtreme-Ecommerce/
 
 ## Contacto
 
