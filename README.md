@@ -19,6 +19,13 @@
 
 ## Proyectos Destacados
 
+### Bookify *(En desarrollo)*
+
+Sistema Full Stack de gestión de turnos para barberías y otros negocios de servicios.
+Tecnologías: React · Spring Boot · MySQL · JPA · JWT.
+
+🔗 https://github.com/Gonzasenso/Bookify
+
 ### Portfolio Personal
 
 🔗 https://gonzasenso.github.io/Portfolio/
